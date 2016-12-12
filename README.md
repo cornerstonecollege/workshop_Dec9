@@ -23,5 +23,5 @@ Please update your info by Pull Request.
 
 ## Shinji
 - Q: Do you know _markdown_?
-- A: 
+- A: Now, I understood it a __little__ bit!
 
