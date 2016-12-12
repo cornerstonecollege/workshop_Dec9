@@ -7,7 +7,7 @@ Please update your info by Pull Request.
 
 ## Hannah
 - Q: Are you familiar with [Sass](http://sass-lang.com/)?
-- A: 
+- A: It's kind of CSS language!
 
 ## Keigo
 - Q: Do you like __coding__?
