@@ -3,7 +3,7 @@ Please update your info by Pull Request.
 
 ## Ai
 - Q: Can you decorate my nails?
-- A: 
+- A: Yes I can. Would you like to do it?
 
 ## Hannah
 - Q: Are you familiar with [Sass](http://sass-lang.com/)?
