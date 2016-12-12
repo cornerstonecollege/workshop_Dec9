@@ -11,7 +11,7 @@ Please update your info by Pull Request.
 
 ## Keigo
 - Q: Do you like __coding__?
-- A: 
+- A: I do like coding =)
 
 ## Saeko
 - Q: Do you know [stack overflow](http://stackoverflow.com/)?
