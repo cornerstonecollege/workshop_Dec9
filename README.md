@@ -19,7 +19,7 @@ Please update your info by Pull Request.
 
 ## Sena
 - Q: Do you like reading books?
-- A: 
+- A: Yes,of course!
 
 ## Shinji
 - Q: Do you know _markdown_?
